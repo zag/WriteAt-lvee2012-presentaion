@@ -1,0 +1,355 @@
+=for DESCRIPTION :title('Writeat : доступные книги для читателей и писателей')
+= :author('Александр Загацкий') :pubdate('июнь 2012') :backimages('img/297823712_f8e59447a5_z.jpg')
+
+=config Image :width('2in')
+=config para :bg<white> :color(black)
+=config SlideS :valign(b)
+
+=begin Slide :title('Кто я')
+О себе:
+
+=item B<plosur.in> -
+единая система шаблонов для front и back-end 
+=item B<"Все о Perl 6"> - 
+открытая книга о Perl 6
+
+
+B<Интересы>:
+
+=item персональная публикация
+=item распределенные соцсети
+
+Блог:
+
+B<http://zag.ru>,  B<делюсь опытом> в виде бесплатных книг
+
+=end Slide
+
+
+=begin Slide :title('Папирус - самый древний писчий материал') :backimage('img/297823712_f8e59447a5_z.jpg') :valign(b)
+=comment
+img/297823712_f8e59447a5_z.jpg
+http://flic.kr/p/sjqBA
+=para 
+B<Парирус / Cyperus papyrus>
+
+=end Slide
+
+=begin Slide :title<'документоборот фараонов'>
+= :backimage('img/3030218104_fbc2feb7a2_b.jpg') :valign(b)
+=comment
+http://flic.kr/p/5BLEgJ
+=para
+«Папирус», в переводе с древнеегипетского, означает «царский»
+
+=end Slide
+
+=begin Slide :title<'Формат книг: свиток'>
+= :backimage('img/3030218208_43fe3a8b69_b.jpg') :valign(b)
+=comment
+http://flic.kr/p/5BLEiw
+=para
+При сворачивании усилие влияет на объем !
+
+=end Slide
+
+=begin Slide :title('Пергамент - новый носитель') :backimage('img/logod.jpg') :valign(b)
+=comment
+http://femlitkat.files.wordpress.com/2010/02/logod.jpg
+
+=para
+Пергамент - сменил папирус в 7 веке
+=Pause
+=para
+Формат: свиток
+
+=end Slide
+
+
+=begin Slide :title('Учились писать на церах') :backimage('img/photos_0018_0096-610.jpg') :valign(b)
+=comment
+http://legvmac.ru/armors/albom18/photo96/
+
+=para
+Цера - учебная тетрадь
+
+=end Slide
+
+=begin Slide :title('Стило') :backimage('img/NovgorodMus351waxTabletStylus.jpg') :valign(b)
+=comment
+http://users.stlcc.edu/mfuller/Novgorodwoodp.html
+=para
+Втрым концом - текст стриается
+
+=end Slide
+
+=begin Slide :title('Первое изображение прототипа книги') :backimage('img/borukhovich2-2.jpg') :valign(b) 
+=comment
+http://sno.pro1.ru/lib/borukhovich_antichnie_svitki/2.htm
+=para
+«Поэтесса» на помпейской фреске «Дома Либания»
+
+=end Slide
+
+=begin Slide :title('Евангелие Аббы Гаримы - самая древняя книга-кодекс')  :backimage('img/000wpg3a.jpg') :valign(b)
+=comment
+http://kryukov-a.livejournal.com/44412.html
+=para
+переплет
+=para
+5-6 век
+=end Slide
+
+=begin Slide :title('Инетересный факт') :backimage('img/017.jpg') :valign(b)
+=comment
+http://www.vokrugsveta.ru/vs/article/7167/
+=para
+большинство из птиц 
+=para
+не водятся в Эфиопии
+
+=end Slide
+
+=begin Slide :title('Книга vs свиток') :backimage('img/3870215305_94fabaf5da_z.jpg') :valign(b)
+=para содержание
+=Pause
+=para быстрая навигация
+=Pause
+=para вперед - назад
+=Pause
+=para можно ссылаться на части книги
+=comment
+http://flic.kr/p/6TZSb6
+
+=end Slide
+
+
+=begin Slide :title('Смена носителя') :backimage('img/Toilet-Paper.jpg') :valign(b)
+=comment
+http://mimg.ugo.com/200807/26948/Toilet-Paper.jpg
+=para
+С востока пришла бумага
+=end Slide
+
+=begin Slide :title('Смена носителя') :backimage('img/418916367_9e81b9a8ba_z.jpg')
+=comment
+Disaster
+http://flic.kr/p/D24eZ
+
+=para
+приятная на ощупь
+=Pause
+=para
+компактнее
+=Pause
+=para
+проще производство
+=end Slide
+
+=begin Slide :title('Трехмерные книги от Benjamin Lacombe') :backimage('img/3184670873.jpg')
+=comment
+http://ifitshipitshere.blogspot.com/2010/09/benjamin-lacombes-beautifully.html
+=end Slide
+
+=begin Slide :title('Трехмерные книги от Benjamin Lacombe') :backimage('img/Picture4.png')
+=comment
+http://ifitshipitshere.blogspot.com/2010/09/benjamin-lacombes-beautifully.html
+=end Slide
+
+=begin Slide :title('Бумажная Википедия') :backimage('img/unusual-book-design-17.jpg') :valign('b')
+=comment
+http://www.novate.ru/blogs/120111/16533/
+=para
+5000-страничный том из популярных статей
+=end Slide
+
+=begin Slide :title('Бумажная Википедия') :backimage('img/unusual-book-design-18.jpg') :valign('b')
+=comment
+http://www.novate.ru/blogs/120111/16533/
+=para
+дизайнер Роб Мэттьюс (Rob Matthews)
+=end Slide
+
+=begin Slide :title('Дырявая книга') :backimage('img/unusual-book-design-3.jpg') :valign('b')
+=comment
+http://www.novate.ru/blogs/120111/16533/
+=para
+Джонатан Сафран Фоер  «Tree of Codes»
+=end Slide
+
+=begin Slide :title('Дырявая книга') :backimage('img/unusual-book-design-4.jpg') :valign('b')
+=comment
+http://www.novate.ru/blogs/120111/16533/
+=para
+... решил наглядно показать, что такое гипертекст.
+=end Slide
+
+
+=begin Slide :title('Поваренная книга от IKEA') :backimage('img/unusual-book-design-5.jpg') :valign('b')
+=comment
+http://www.novate.ru/blogs/120111/16533/
+=para
+«HOMEMADE IS BEST» / «сделанное дома – лучше»
+=Pause
+=para
+рецепты в стиле инструкций по сборке мебели
+
+=end Slide
+
+=begin Slide :title('Поваренная книга') :backimage('img/unusual-book-design-15.jpg') :valign('b')
+=comment
+http://www.novate.ru/blogs/120111/16533/
+=para
+Чтобы прочитать - нужно запечь в духовке
+
+=end Slide
+
+=begin Slide :title('Поваренная книга') :backimage('img/unusual-book-design-21.jpg') :valign('b')
+=comment
+http://www.novate.ru/blogs/120111/16533/
+=para
+лист книги - специя
+=end Slide
+
+
+
+
+=begin Slide :title('Хранение свитков') :backimage('img/4823535284_f8084cf8d5_b.jpg')
+=comment
+http://flic.kr/p/8meSZs
+=end Slide
+
+=begin Slide :title('Хранение книг') :backimage('img/tumblr_lgs890g6Px1qzb5wzo1_1280.jpg')
+=comment
+http://bookshelves.tumblr.com/post/3350591078
+=para
+Смена формата полок для книг после свитков
+
+=end Slide
+
+=begin Slide :title('Современные полки') :backimage('img/tvshelve.jpg')
+=comment
+http://friendfeed.com/zag/72b0c9c0/mibf
+=para
+полки для электронных книг
+
+=end Slide
+
+=begin Slide :title('Современные форматы') :backimage('img/6682814337_52e5458211_z.jpg') :valign('b')
+=comment
+http://flic.kr/p/bbxaSR
+=para
+pdf, fb2, txt, epub,rtf, html, AZW (Amazon Kindle)
+=end Slide
+
+=begin Slide :title('Сложный путь книги'):backimage('oldbook.pdf')
+=comment
+Изображение Винчестера 
+http://en.wikipedia.org/wiki/File:Innansicht_Festplatte_512_MB_von_Quantum.jpg
+Бизнес на книгах
+http://finam.fm/archive-view/3515/
+Image oldbook.pdf
+
+=end Slide
+
+
+=begin Slide :title('Простой путь книги'):backimage('newbook.pdf')
+=comment
+Изображение Винчестера 
+http://en.wikipedia.org/wiki/File:Innansicht_Festplatte_512_MB_von_Quantum.jpg
+Бизнес на книгах
+http://finam.fm/archive-view/3515/
+=end Slide
+
+=begin Slide :title('Writeat - инструментарий для создания книг') 
+=for Image :width('3in') 
+img/wa_Logo
+
+Доступный и открытый интструментарий.
+
+=item  лицензия - Artistic
+=item  объект - книги и техническая документация
+=item  в основе Pod6 - открытый формат разметки
+=item  любой текстовый редактор
+
+=end Slide
+
+=begin Slide :title('Шаблон книги')
+=begin code
+    =TITLE Моя очередная книга
+    =SUBTITLE или как просто делиться знаниями
+    =AUTHOR  Вася Пупкин
+    =DESCRIPTION
+    В этой книге описаны основные правила, которые позволят 
+    наиболее просто поделиться своими знаниями и опытом.
+    =CHAPTER Вступление
+    
+    Начало книги !
+=end code
+=end Slide
+
+=begin Slide :title('Один исходный формат') :backimage('img/276006651_dfdd89cc31_z.jpg')
+=comment
+http://flic.kr/p/qoBan
+
+=para Максимум поддерживаемых форматов электронных книг !
+
+=end Slide
+
+
+=begin Slide :title('0.01')
+
+Пока версия 0.01 
+
+=code
+sudo add-apt-repository ppa:zahatski/ppa
+sudo apt-get install writeat
+
+С чего начать
+
+=code
+man writeat
+
+=end Slide
+
+
+=begin Slide :title('Материалы для презентации')
+
+http://flic.kr/p/sjqBA
+http://flic.kr/p/5BLEgJ
+http://flic.kr/p/5BLEiw
+http://femlitkat.files.wordpress.com/2010/02/logod.jpg
+http://legvmac.ru/armors/albom18/photo96/
+http://users.stlcc.edu/mfuller/Novgorodwoodp.html
+http://sno.pro1.ru/lib/borukhovich-antichnie-svitki/2.htm
+http://kryukov-a.livejournal.com/44412.html
+http://www.vokrugsveta.ru/vs/article/7167/
+http://flic.kr/p/6TZSb6
+http://mimg.ugo.com/200807/26948/Toilet-Paper.jpg
+http://flic.kr/p/D24eZ
+http://www.novate.ru/blogs/120111/16533/
+http://flic.kr/p/8meSZs
+http://bookshelves.tumblr.com/post/3350591078
+http://flic.kr/p/bbxaSR
+http://flic.kr/p/qoBan
+
+=end Slide
+
+=begin Slide  :title('Вопросы') 
+=for Image :width('5in')
+img/water.jpg
+
+B<Вопросы ?>
+=comment
+http://bookshelves.tumblr.com/post/2135892395
+img/water.jpg
+    
+=item B<home page>
+http://writeat.com
+
+=item B<github>
+http://github.com/zag/writeat
+
+
+=end Slide
+
